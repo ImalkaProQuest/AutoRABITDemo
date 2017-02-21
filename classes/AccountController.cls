@@ -4,4 +4,8 @@ public class AccountController {
     public PageReference accSave(){
     	return null;
     }
+
+    public PageReference cancelAccount(){
+    	return null;
+    }
 }

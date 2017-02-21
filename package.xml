@@ -3,6 +3,7 @@
     <version>37.0</version>
     <types>
         <members>AccountController</members>
+        <members>AccountDAO</members>
         <members>TestAccountController</members>
         <name>ApexClass</name>
     </types>
@@ -49,6 +50,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Account.Account_End_Date__c</members>
         <members>Account.Account_Start_Date__c</members>
         <members>Account.Active__c</members>
         <members>Account.CustomerPriority__c</members>

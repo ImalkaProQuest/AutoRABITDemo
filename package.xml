@@ -7,6 +7,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>AccountVF</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
         <members>AppSwitcher</members>
         <members>Salesforce1</members>
         <name>AppMenu</name>

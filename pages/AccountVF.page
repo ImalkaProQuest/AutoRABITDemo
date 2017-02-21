@@ -1,0 +1,5 @@
+<apex:page showHeader="true" sidebar="true" standardController="Account" extensions="AccountController">
+	<apex:form >
+		<apex:commandButton value="Save" action="{!accSave}"/>
+	</apex:form>
+</apex:page>

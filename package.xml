@@ -4,12 +4,17 @@
     <types>
         <members>AccountController</members>
         <members>AccountDAO</members>
+        <members>ContactDAO</members>
         <members>TestAccountController</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>AccountVF</members>
         <name>ApexPage</name>
+    </types>
+    <types>
+        <members>ContactTrigger</members>
+        <name>ApexTrigger</name>
     </types>
     <types>
         <members>AppSwitcher</members>
@@ -64,6 +69,7 @@
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
         <members>Case.SLAViolation__c</members>
+        <members>Contact.Contact_Start_Date__c</members>
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
         <members>Goal.OrigGoalId__c</members>

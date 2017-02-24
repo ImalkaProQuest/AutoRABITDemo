@@ -5,6 +5,7 @@
         <members>AccountController</members>
         <members>AccountDAO</members>
         <members>ContactDAO</members>
+        <members>ProductDAO</members>
         <members>TestAccountController</members>
         <name>ApexClass</name>
     </types>
@@ -84,6 +85,7 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>Product2.Product_Field_From_Dev1__c</members>
         <name>CustomField</name>
     </types>
     <types>
